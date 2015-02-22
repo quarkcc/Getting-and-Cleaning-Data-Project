@@ -6,9 +6,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-From this data I have created a tidy data set, and the code is in the script: ... .R
+From this data I have created a tidy data set, and the code is in the script: run_analysis.R
 
-And then final data is in the text-plan file called.
+And then final data is in the text-plan file called average_var.txt
 
 Also, you can see the code book in the file called CodeBook.md
 
