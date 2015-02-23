@@ -8,7 +8,7 @@ Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HA
 
 From this data I have created a tidy data set, and the code is in the script: run_analysis.R
 
-And then final data is in the text-plan file called average_var.txt
+And then final data is in the text-plan file called averages_set.txt
 
 Also, you can see the code book in the file called CodeBook.md
 
